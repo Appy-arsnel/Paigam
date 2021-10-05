@@ -11,7 +11,12 @@
         android:theme="@style/Theme.AppCompat.NoActionBar" >
         <activity android:name=".onboarding.onboarding_page2" >
         </activity>
-        <activity android:name=".splashscreen.splashscreen" />
+        <activity android:name=".splashscreen.splashscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name=".onboarding_page1" />
     </application>
 
