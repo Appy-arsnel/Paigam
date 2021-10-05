@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".onboarding_page1">
+    tools:context=".onboarding_page1"
+    android:background="@color/white">
 
 
     <TextView
@@ -42,7 +43,7 @@
         android:layout_width="350dp"
 
         android:layout_height="350dp"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="50dp"
         android:background="@drawable/screen2bg"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
