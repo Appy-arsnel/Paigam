@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279934410268",
+    "project_id": "paigm-282ad",
+    "storage_bucket": "paigm-282ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279934410268:android:ddf2711830d20da6e6c9d9",
+        "android_client_info": {
+          "package_name": "com.example.paigam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279934410268-5jpct39845q7bs3k3np0fqm4in8ln23p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7QISDIVtgXTth4pxNiW4tjytdYxPkw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279934410268-5jpct39845q7bs3k3np0fqm4in8ln23p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
