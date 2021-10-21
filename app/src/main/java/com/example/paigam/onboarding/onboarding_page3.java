@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.example.paigam.R;
+
 public class onboarding_page3 extends AppCompatActivity {
 
     @Override
